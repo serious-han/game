@@ -24,4 +24,4 @@ if(response === 'y' || response === 'Y')
   alert('Ok!')
 }
 
-alert(gameData[0][0]);
+alert(gameData[1][0]);
